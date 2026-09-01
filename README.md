@@ -35,7 +35,6 @@ Atualmente estou desenvolvendo meus conhecimentos por meio de projetos acadêmic
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-dos-santos-prado-24b06b2a1/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardodsprado@gmail.com)
 
 </div>
 
