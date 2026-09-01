@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Eduardo Santos
+# Eduardo Prado
 
 ### 🎓 Estudante de Ciência da Computação | Redes de Computadores | Cibersegurança
 
