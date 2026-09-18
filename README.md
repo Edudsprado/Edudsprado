@@ -12,7 +12,7 @@ Atualmente estou desenvolvendo meus conhecimentos por meio de projetos acadêmic
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Bacharelado em Ciência da Computação
+- 🎓 Formação em Bacharelado em Ciência da Computação
 - 🌐 Formação em Redes de Computadores
 - 🔐 Interesse em Cibersegurança
 - 🛡️ Foco de carreira em Pentest / Red Team
