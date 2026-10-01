@@ -25,7 +25,7 @@ Atualmente estou desenvolvendo meus conhecimentos por meio de projetos acadêmic
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Edudsprado&theme=dark&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Edudsprado&theme=dark&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 </div>
 <br>
