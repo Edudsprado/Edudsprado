@@ -2,11 +2,11 @@
 
 ### 🎓 Estudante de Ciência da Computação | Redes de Computadores | Cibersegurança
 
-Me chamo Eduardo, tenho 20 anos, sou técnico de redes e estudante de Ciência da Computação e Tecnólogo em Redes de Computadores, interessado em tecnologia, e segurança da informação.
+Sou técnico de redes e estudante de Ciência da Computação e Tecnologia em Redes de Computadores. Colaboro com a StudioCriandoWeb no desenvolvimento e na atualização de sites, ampliando minha prática em interfaces web e no trabalho com projetos versionados.
 
-Atualmente estou desenvolvendo meus conhecimentos por meio de projetos acadêmicos, laboratórios práticos e estudos independentes, com foco em construir uma base sólida para atuar profissionalmente na área de Cibersegurança.
+Continuo construindo minha base em Segurança da Informação, com interesse em Pentest e Red Team, por meio de estudos, projetos acadêmicos e laboratórios.
 
-🎯 Meu objetivo é evoluir profissionalmente na área de Segurança da Informação, com interesse especial em Pentest e Red Team.
+
 
 ---
 
